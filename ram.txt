@@ -1,2 +1,8 @@
 i,m learn git hub login 
+<<<<<<< Updated upstream
 im tring test second time
+=======
+
+
+an learn commens also
+>>>>>>> Stashed changes
